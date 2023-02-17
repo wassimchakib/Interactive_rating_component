@@ -1,0 +1,18 @@
+/* Reset */
+:root {
+  --fs-1 : 1rem;
+  --fs-2 : 1.2rem;
+  --fs-3 : 1.4rem;
+  --fs-4 : 1.6rem;
+  --fs-5 : 2rem;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
